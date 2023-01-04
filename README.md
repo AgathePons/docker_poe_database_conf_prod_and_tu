@@ -87,3 +87,6 @@ Play `trainee.sql`
 ```cmd
 docker compose -p dbpoe exec -T db mysql -u poe -ppoe post_suivi_stagiaire < trainee.sql
 ```
+
+## Play `.bat` script
+

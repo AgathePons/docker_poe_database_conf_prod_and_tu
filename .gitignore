@@ -1,3 +1,4 @@
-.env
+!.env
 datas/*
 !/datas/.ok
+datas-tu/*

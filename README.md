@@ -90,3 +90,6 @@ docker compose -p dbpoe exec -T db mysql -u poe -ppoe post_suivi_stagiaire < tra
 
 ## Play `.bat` script
 
+Delete data in table
+
+`test`

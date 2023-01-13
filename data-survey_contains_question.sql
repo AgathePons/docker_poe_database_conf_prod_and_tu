@@ -1,0 +1,12 @@
+insert into survey_contains_question (survey_id, question_id) values (1, 1);
+insert into survey_contains_question (survey_id, question_id) values (1, 2);
+insert into survey_contains_question (survey_id, question_id) values (1, 3);
+insert into survey_contains_question (survey_id, question_id) values (1, 4);
+insert into survey_contains_question (survey_id, question_id) values (2, 1);
+insert into survey_contains_question (survey_id, question_id) values (2, 2);
+insert into survey_contains_question (survey_id, question_id) values (2, 3);
+insert into survey_contains_question (survey_id, question_id) values (2, 7);
+insert into survey_contains_question (survey_id, question_id) values (3, 1);
+insert into survey_contains_question (survey_id, question_id) values (3, 2);
+insert into survey_contains_question (survey_id, question_id) values (3, 3);
+insert into survey_contains_question (survey_id, question_id) values (3, 8);

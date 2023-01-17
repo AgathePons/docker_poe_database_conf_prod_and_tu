@@ -1,3 +1,11 @@
-insert into answer(id, text) values (1, 'La réponse 1');
-insert into answer(id, text) values (2, 'La réponse 2');
-insert into answer(id, text) values (3, 'La réponse 3');
+insert into answer(id, text, question_id) values (1, 'Jean-Luc', 2);
+insert into answer(id, text, question_id) values (2, 'Matthias', 2);
+insert into answer(id, text, question_id) values (3, 'Clementine', 2);
+insert into answer(id, text, question_id) values (4, 'Marie', 2);
+insert into answer(id, text, question_id) values (5, 'Ludo', 2);
+insert into answer(id, text, question_id) values (6, '20k - 25k brut/an', 5);
+insert into answer(id, text, question_id) values (7, '25k - 30k brut/an', 5);
+insert into answer(id, text, question_id) values (8, '30k - 35k brut/an', 5);
+insert into answer(id, text, question_id) values (9, '35k - 40k brut/an', 5);
+insert into answer(id, text, question_id) values (10, '45k - 50k brut/an', 5);
+insert into answer(id, text, question_id) values (11, '+ 50k brut/an', 5);

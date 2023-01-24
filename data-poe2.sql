@@ -1,0 +1,10 @@
+INSERT INTO poe (id, begin_date, end_date, title, poe_type, status_1, status_6, status_12) VALUES (1,'2021-01-10','2021-03-15','Java Fullstack','POEI', 0, 0, 0);
+INSERT INTO poe (id, begin_date, end_date, title, poe_type, status_1, status_6, status_12) VALUES (2,'2022-02-10','2022-05-25','Consultant BI','POEC', 0, 0, 0);
+INSERT INTO poe (id, begin_date, end_date, title, poe_type, status_1, status_6, status_12) VALUES (3,'2021-10-20','2022-11-05','Expert securite','POEC', 0, 0, 0);
+INSERT INTO poe (id, begin_date, end_date, title, poe_type, status_1, status_6, status_12) VALUES (4,'2022-10-24','2022-12-28','Java Fullstack 2','POEC', 0, 0, 0);
+INSERT INTO poe (id, begin_date, end_date, title, poe_type, status_1, status_6, status_12) VALUES (5,'2021-05-02','2022-08-1','Big Data','POEI', 0, 0, 0);
+INSERT INTO poe (id, begin_date, end_date, title, poe_type, status_1, status_6, status_12) VALUES (6,'2023-03-04','2023-06-17','Consultant BI','POEI', 0, 0, 0);
+INSERT INTO poe (id, begin_date, end_date, title, poe_type, status_1, status_6, status_12) VALUES (7,'2021-02-12','2022-02-01','Formation SCRUM','POEC', 0, 0, 0);
+INSERT INTO poe (id, begin_date, end_date, title, poe_type, status_1, status_6, status_12) VALUES (8,'2022-06-27','2022-09-30','Helpdesk','POEC', 0, 0, 0);
+INSERT INTO poe (id, begin_date, end_date, title, poe_type, status_1, status_6, status_12) VALUES (9,'2022-04-15','2022-07-02','Support N1/N2','POEI', 0, 0, 0);
+INSERT INTO poe (id, begin_date, end_date, title, poe_type, status_1, status_6, status_12) VALUES (10,'2022-10-08','2023-01-02','Agile SAFe','POEC', 0, 0, 0);

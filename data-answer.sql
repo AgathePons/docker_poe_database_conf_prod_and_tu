@@ -34,10 +34,3 @@ insert into answer(id, text, question_id, order_in_question) values (28, '.Net',
 insert into answer(id, text, question_id, order_in_question) values (29, 'Autre tecnologies', 10, 13);
 
 -- survey 3
-insert into answer(id, text, question_id, order_in_question) values (30, 'Spring Boot', 12, 0);
-insert into answer(id, text, question_id, order_in_question) values (31, 'Angular', 12, 1);
-insert into answer(id, text, question_id, order_in_question) values (32, 'React', 12, 2);
-insert into answer(id, text, question_id, order_in_question) values (33, 'Symfony', 12, 3);
-insert into answer(id, text, question_id, order_in_question) values (34, 'NodeJs', 12, 4);
-insert into answer(id, text, question_id, order_in_question) values (35, 'Flutter', 12, 5);
-insert into answer(id, text, question_id, order_in_question) values (36, 'Autres', 12, 6);

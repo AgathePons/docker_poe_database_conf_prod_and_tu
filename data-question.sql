@@ -18,7 +18,7 @@ values (5, 'Etes-vous toujours dans votre entreprise ?', 'YES_NO', 4, 1);
 -- survey 2
 insert into question 
 (id, text, answer_type, order_in_survey, survey_id) 
-values (6, 'Etes-vous toujours en poste au sein de l''entreprise qui vous a initialement recrute ?', 'Yes_NO', 0, 2);
+values (6, 'Etes-vous toujours en poste au sein de l''entreprise qui vous a initialement recrute ?', 'YES_NO', 0, 2);
 insert into question 
 (id, text, answer_type, order_in_survey, survey_id) 
 values (7, 'Sinon, a quelle date etes vous parti ?', 'FREE', 1, 2);
@@ -27,7 +27,7 @@ insert into question
 values (8, 'Si vous etes parti, quelle en est la raison ?', 'CHOOSE_ONE', 2, 2);
 insert into question 
 (id, text, answer_type, order_in_survey, survey_id) 
-values (9, 'Combien de mission differentes avez-vous effectue depuis votre intégration ?', 'FREE', 3, 2);
+values (9, 'Combien de mission differentes avez-vous effectue depuis votre integration ?', 'FREE', 3, 2);
 insert into question 
 (id, text, answer_type, order_in_survey, survey_id) 
 values (10, 'Quelles technologies avez-vous utilise au cours de vos differentes missions ?', 'CHOOSE_MANY', 4, 2);

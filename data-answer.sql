@@ -13,31 +13,31 @@ insert into answer(id, text, question_id, order_in_question) values (11, '+ 50k 
 -- survey 2
 
 
-insert into answer(id, text, question_id, order_in_question) values (12, 'Pas d''intégration à la fin de la période d''essai', 8, 0);
-insert into answer(id, text, question_id, order_in_question) values (13, 'Interuption de la période d''essai à votre initiative', 8, 1);
-insert into answer(id, text, question_id, order_in_question) values (14, 'Interruption de la période d''essai à l''initiative de l''entreprise', 8, 2);
+insert into answer(id, text, question_id, order_in_question) values (12, 'Pas d''integration a la fin de la periode d''essai', 8, 0);
+insert into answer(id, text, question_id, order_in_question) values (13, 'Interuption de la periode d''essai a votre initiative', 8, 1);
+insert into answer(id, text, question_id, order_in_question) values (14, 'Interruption de la periode d''essai a l''initiative de l''entreprise', 8, 2);
 insert into answer(id, text, question_id, order_in_question) values (15, 'Changement d''entreprise', 8, 3);
 
-insert into answer(id, text, question_id, order_in_question) values (15, 'Angular', 8, 0);
-insert into answer(id, text, question_id, order_in_question) values (15, 'React', 8, 1);
-insert into answer(id, text, question_id, order_in_question) values (15, 'Vue', 8, 2);
-insert into answer(id, text, question_id, order_in_question) values (15, 'JS Natif', 8, 3);
-insert into answer(id, text, question_id, order_in_question) values (15, 'Autre framework frontend', 8, 4);
-insert into answer(id, text, question_id, order_in_question) values (15, 'Spring boot', 8, 5);
-insert into answer(id, text, question_id, order_in_question) values (15, 'JEE natif', 8, 6);
-insert into answer(id, text, question_id, order_in_question) values (15, 'Symfony', 8, 7);
-insert into answer(id, text, question_id, order_in_question) values (15, 'Laravel', 8, 8);
-insert into answer(id, text, question_id, order_in_question) values (15, 'PHP natif', 8, 9);
-insert into answer(id, text, question_id, order_in_question) values (15, 'Autre framework PHP', 8, 10);
-insert into answer(id, text, question_id, order_in_question) values (15, 'Python', 8, 11);
-insert into answer(id, text, question_id, order_in_question) values (15, '.Net', 8, 12);
-insert into answer(id, text, question_id, order_in_question) values (15, 'Autre tecnologies', 8, 13);
+insert into answer(id, text, question_id, order_in_question) values (16, 'Angular', 10, 0);
+insert into answer(id, text, question_id, order_in_question) values (17, 'React', 10, 1);
+insert into answer(id, text, question_id, order_in_question) values (18, 'Vue', 10, 2);
+insert into answer(id, text, question_id, order_in_question) values (19, 'JS Natif', 10, 3);
+insert into answer(id, text, question_id, order_in_question) values (20, 'Autre framework frontend', 10, 4);
+insert into answer(id, text, question_id, order_in_question) values (21, 'Spring boot', 10, 5);
+insert into answer(id, text, question_id, order_in_question) values (22, 'JEE natif', 10, 6);
+insert into answer(id, text, question_id, order_in_question) values (23, 'Symfony', 10, 7);
+insert into answer(id, text, question_id, order_in_question) values (24, 'Laravel', 10, 8);
+insert into answer(id, text, question_id, order_in_question) values (25, 'PHP natif', 10, 9);
+insert into answer(id, text, question_id, order_in_question) values (26, 'Autre framework PHP', 10, 10);
+insert into answer(id, text, question_id, order_in_question) values (27, 'Python', 10, 11);
+insert into answer(id, text, question_id, order_in_question) values (28, '.Net', 10, 12);
+insert into answer(id, text, question_id, order_in_question) values (29, 'Autre tecnologies', 10, 13);
 
 -- survey 3
-insert into answer(id, text, question_id, order_in_question) values (16, 'Spring Boot', 12, 0);
-insert into answer(id, text, question_id, order_in_question) values (17, 'Angular', 12, 1);
-insert into answer(id, text, question_id, order_in_question) values (18, 'React', 12, 2);
-insert into answer(id, text, question_id, order_in_question) values (19, 'Symfony', 12, 3);
-insert into answer(id, text, question_id, order_in_question) values (20, 'NodeJs', 12, 4);
-insert into answer(id, text, question_id, order_in_question) values (21, 'Flutter', 12, 5);
-insert into answer(id, text, question_id, order_in_question) values (22, 'Autres', 12, 6);
+insert into answer(id, text, question_id, order_in_question) values (30, 'Spring Boot', 12, 0);
+insert into answer(id, text, question_id, order_in_question) values (31, 'Angular', 12, 1);
+insert into answer(id, text, question_id, order_in_question) values (32, 'React', 12, 2);
+insert into answer(id, text, question_id, order_in_question) values (33, 'Symfony', 12, 3);
+insert into answer(id, text, question_id, order_in_question) values (34, 'NodeJs', 12, 4);
+insert into answer(id, text, question_id, order_in_question) values (35, 'Flutter', 12, 5);
+insert into answer(id, text, question_id, order_in_question) values (36, 'Autres', 12, 6);
